@@ -131,3 +131,7 @@ dmypy.json
 # eclipse and pydev
 .project
 .pydevproject
+
+pet_finder/input
+.idea
+.vscode
