@@ -133,5 +133,3 @@ dmypy.json
 .pydevproject
 
 pet_finder/input
-.idea
-.vscode
